@@ -26,6 +26,7 @@
 [![Adobe Photoshop](https://img.shields.io/badge/Photoshop-000000?style=plastic&logo=krita&logoColor=2DAAFF&labelColor=001833&color=2DAAFF)](https://en.wikipedia.org/wiki/Adobe_Photoshop)
 [![Adobe Illustrator](https://img.shields.io/badge/Illustrator-000000?style=plastic&logo=inkscape&logoColor=FF9B00&labelColor=300000&color=FF9B00)](https://en.wikipedia.org/wiki/Adobe_Illustrator)
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-000000?style=plastic&logo=vscodium&logoColor=0079BA&labelColor=202020&color=20B2F3)](https://code.visualstudio.com/)
+[![JetBrains Rider](https://img.shields.io/badge/Rider-000000?style=plastic&logo=rider&logoColor=000000&labelColor=FFFFFF&color=FE9C0E)](https://www.jetbrains.com/rider/)
 
 ## 💀 Contact
 
